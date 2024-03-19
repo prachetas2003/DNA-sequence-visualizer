@@ -1,0 +1,35 @@
+------------------------------------------------------------------------GUIDE--------------------------------------------------------------------------------
+BRCA1 (Breast and Ovarian Cancer)
+
+Characteristic Sequence to search for(185delAG mutation): AGTGAAGTCA
+Patient's DNA Sequence to enter: CGTACGTAGCTAGTGAAGTCAGCTAGCTAGCTAG
+UniProt Accession id: P38398
+NCBI Accession id: NM_007294.4
+
+APOE (Alzheimer's Disease)
+
+Characteristic Sequence to search for(ε4 allele, position 112): CGCGG
+Patient's DNA Sequence to enter: ATCGATCGCGCGGATCGATCGATC
+UniProt Accession id: P02649
+NCBI Accession id: NM_000041.4
+
+HTT (Huntington's Disease)
+
+Characteristic Sequence to search for(CAG repeat expansion): CAGCAGCAGCAGCAGCAG (Note: The actual number of CAG repeats varies, and more than 36 repeats are associated with Huntington's disease.)
+Patient's DNA Sequence to enter: ATCGATCAGCAGCAGCAGCAGCAGCAGATCGATC
+UniProt Accession: P42858
+NCBI Accession: NM_002111.8
+
+HBB (Sickle Cell Anemia)
+
+Characteristic Sequence to search for (E6V mutation): GTGAGG
+Patient's DNA Sequence to enter: CTACTACGTGAGGACTGACTG
+UniProt Accession: P68871
+NCBI Accession: NM_000518.5
+
+FMR1 (Fragile X Syndrome)
+
+Characteristic Sequence to search for(CGG repeat expansion): CGGCGGCGGCGGCGG (Note: The actual number of CGG repeats varies, and more than 200 repeats are associated with Fragile X syndrome.)
+Patient's DNA Sequence to enter: ATCGATCCGGCGGCGGCGGCGGCGGATCGATC
+UniProt Accession: Q06787
+NCBI Accession: NM_002024.6
