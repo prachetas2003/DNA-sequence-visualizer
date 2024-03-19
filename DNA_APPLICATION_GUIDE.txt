@@ -1,4 +1,11 @@
-------------------------------------------------------------------------GUIDE--------------------------------------------------------------------------------
+------------------------------------------------------------------------GUIDE------------------------------------------------
+
+The following is the data about the genetic sequences of diseases like Alzhemier , Huntington etc. ,also , a patients sample dna is also provided. 
+User can enter the patient's dna and generate its all possible sequences from which we would search if the genes of the disease is present or not.
+After this step we would look for the genetic information about the disease from the database of National Centre For Biological Information (NCBI) or from Universal protein knowledebase (UniProt) using the primary key's of the diseases provided below.
+The last step then would be to visualise the dna composition of the sample we are testing and a diseased patient's sample.
+This information could be used by medical professionals to assess if the sampled DNA is at a high risk of being affected by the disease or not.
+
 BRCA1 (Breast and Ovarian Cancer)
 
 Characteristic Sequence to search for(185delAG mutation): AGTGAAGTCA
