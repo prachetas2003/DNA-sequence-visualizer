@@ -135,7 +135,7 @@ class MyApp(tk.Tk):
             response.raise_for_status()  # Raises an HTTPError if the response was an HTTP error
             fasta_data = response.text
             header, sequence = extract_sequence_from_fasta(fasta_data)
-            # You can now use 'header' to display the name
+            # use 'header' to display the name
             messagebox.showinfo("Sequence Name", header)  # Display the name in a message box
             return sequence
         except requests.HTTPError as http_err:
@@ -199,3 +199,4 @@ class MyApp(tk.Tk):
 if __name__ == "__main__":
     app = MyApp()
     app.mainloop()
+
